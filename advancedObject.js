@@ -17,6 +17,8 @@ var adults = {
  friends: ["Ren","Jamir","Reimon"]
 };
 
-var x = [students,children,adults];
+var reee = [students,children,adults];
+var x = Math.floor(Math.random() * 2);
 
-window.alert(x[1].friends[2]);
+
+window.alert(reee[x].friends);
