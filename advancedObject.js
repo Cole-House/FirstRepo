@@ -2,7 +2,7 @@ var students = {
  firstName:"Cole",
  age: 12,
  grade: 10,
- friends: ["Chance", "shithead", "Yogi"]
+ friends: ["Chance", "Will", "Yogi"]
 };
 var children = {
  firstName:"House",
@@ -17,7 +17,7 @@ var adults = {
  friends: ["Ren","Jamir","Reimon"]
 };
 
-var reee = [students,children,adults];
+var collection = [students,children,adults];
 var x = Math.floor(Math.random() * 2);
 
 
